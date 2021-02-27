@@ -60,7 +60,8 @@ line 112: these three classes (.search-engine-optimization, .online-reputation-m
 so I was able to condense the classes into one line 
   
 WEBSITE URL:
-https://randyfasion.github.io/Homework/#social-media-marketing
+https://randyfasion.github.io/Homework/
+
 
 GitHub Repo URL:
 https://github.com/randyfasion/Homework
