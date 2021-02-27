@@ -59,3 +59,8 @@ line 112: these three classes (.search-engine-optimization, .online-reputation-m
  line 130: these three classes (.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2) all shared similar attributes and values, 
 so I was able to condense the classes into one line 
   
+WEBSITE URL:
+https://randyfasion.github.io/Homework/#social-media-marketing
+
+GitHub Repo URL:
+
